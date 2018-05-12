@@ -1,0 +1,34 @@
+_repo: Second-Landing_24958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, F. L. (Floyd L.)
+    aliases:
+    - Wallace, Floyd L.
+    - Wallace, Floyd Lee
+    birthdate: 1915
+    deathdate: 2004
+    gutenberg_agent_id: '26832'
+    url: http://www.gutenberg.org/2009/agents/26832
+    wikipedia: http://en.wikipedia.org/wiki/F._L._Wallace
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Christmas stories'
+title: Second Landing
+url: http://www.gutenberg.org/ebooks/24958
